@@ -120,9 +120,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: "mcube35/mcube35.github.io"
-    repo_id: "R_kgDOOjQmLw"
+    repo_id: "R_kgDOOjp8hQ"
     category: "Announcements"
-    category_id: "DIC_kwDOOjQmL84CpsZe"
+    category_id: "DIC_kwDOOjp8hc4Cpt6v"
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
