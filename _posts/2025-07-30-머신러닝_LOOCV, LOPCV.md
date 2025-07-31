@@ -1,5 +1,5 @@
 ---
-title: "머신러닝 - LOOCV, LOPCV"
+title: "머신러닝 #2 - LOOCV, LOPCV"
 categories: [머신러닝, 교차검증]
 math: true
 ---
